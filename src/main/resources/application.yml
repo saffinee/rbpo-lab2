@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "1БКС24003"
+
+server:
+  error:
+    include-message: always #чтобы в ответе с ошибкой был текст, а не только код
